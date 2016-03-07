@@ -1,2 +1,2 @@
-# robotics-project
-This is  the project I worked on most of the time my first season in the robotics team FRC 971 (frc971.org). I worked on the zeroing of the robot, which is basically the part of the code that finds the position of the robot based on the sensors.
+# Robotics Project
+This is  the project I worked on most of the time my first season in the robotics team FRC 971 (frc971.org). I worked on the zeroing of the robot, which is basically the part of the code that finds the position of the robot based on the sensors. I worked on this during my Sophomore year. If you want to, you can downlaod the whole code for the 2015 robot by following the link --> http://robotics.mvla.net/spartanrobotics/releases/src/2015_code.tar.gz. Similarily, you can find it in frc971.org.
